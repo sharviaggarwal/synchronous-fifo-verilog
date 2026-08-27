@@ -109,10 +109,6 @@ AA → BB → CC → DD
 
 This confirms the **First-In First-Out** behavior.
 
-## 📊 Simulation Waveform
-
-![FIFO Simulation Waveform](fifo_waveform.png)
-
 ## 📁 Project Files
 
 | File                | Description                |
